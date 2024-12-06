@@ -1,0 +1,38 @@
+[
+  {
+    "caseID": 0,
+    "itemID": 0,
+    "status": "INITIAL",
+    "time": "2024-12-06T04:05:34.087Z"
+  },
+  {
+    "caseID": "o/zqCF2vzPwsjcbHSkt5zV95phiD0/Tn5eFeAt7aSyM=",
+    "itemID": "2jzSkTuxLbcQ2ahTLXgyrw==",
+    "status": "CHECKEDIN",
+    "time": "2024-12-06T04:05:34.213Z"
+  },
+  {
+    "caseID": "o/zqCF2vzPwsjcbHSkt5zV95phiD0/Tn5eFeAt7aSyM=",
+    "itemID": "MRmMc4E0R1enibjqPp7ysg==",
+    "status": "CHECKEDIN",
+    "time": "2024-12-06T04:05:34.215Z"
+  },
+  {
+    "caseID": "o/zqCF2vzPwsjcbHSkt5zV95phiD0/Tn5eFeAt7aSyM=",
+    "itemID": "2jzSkTuxLbcQ2ahTLXgyrw==",
+    "status": "DESTROYED",
+    "time": "2024-12-06T04:07:08.337Z"
+  },
+  {
+    "caseID": "o/zqCF2vzPwsjcbHSkt5zV95phiD0/Tn5eFeAt7aSyM=",
+    "itemID": "MRmMc4E0R1enibjqPp7ysg==",
+    "status": "CHECKEDOUT",
+    "time": "2024-12-06T04:11:04.917Z"
+  },
+  {
+    "caseID": "o/zqCF2vzPwsjcbHSkt5zV95phiD0/Tn5eFeAt7aSyM=",
+    "itemID": "MRmMc4E0R1enibjqPp7ysg==",
+    "status": "CHECKEDIN",
+    "time": "2024-12-06T04:15:34.580Z"
+  }
+]
